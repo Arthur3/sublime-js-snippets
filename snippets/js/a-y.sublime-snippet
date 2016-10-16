@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+yield (${1});
+]]></content>
+	<tabTrigger>y</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

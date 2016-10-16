@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for (let ${1:key} in ${2:object}) {
+	${3}
+}
+]]></content>
+	<tabTrigger>fli</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

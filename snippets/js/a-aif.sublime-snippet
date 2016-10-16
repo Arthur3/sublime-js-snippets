@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+if (${1:statement}) {
+	${2}
+}
+]]></content>
+	<tabTrigger>aif</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+return Promise.reject({ validation: ${1} });
+]]></content>
+	<tabTrigger>prjv</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

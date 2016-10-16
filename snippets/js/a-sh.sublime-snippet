@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+it('should ${1}', (${2}) => {${3}})
+]]></content>
+	<tabTrigger>sh</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
