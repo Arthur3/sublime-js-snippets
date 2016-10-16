@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1:return }Promise.resolve(${2})${3:;}
+]]></content>
+	<tabTrigger>prrs</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

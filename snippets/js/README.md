@@ -111,12 +111,17 @@ return Promise.reject();
 return Promise.reject({ validation: '' });
 ```
 
-18. **`sh`** - 
+18. **`prrs`** - 
+```javascript
+return Promise.resolve();
+```
+
+19. **`sh`** - 
 ```javascript
 it('should ', () => {})
 ```
 
-19. **`y`** - 
+20. **`y`** - 
 ```javascript
 yield ();
 ```
